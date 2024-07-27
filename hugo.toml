@@ -1,8 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Deruni'
-<<<<<<< HEAD
 theme = 'deruni-blog'
-=======
-theme = 'deruni-blog'
->>>>>>> 73f007e2eb950477195acfe380d47c2ea0114799
